@@ -2,6 +2,10 @@
 
 This is a demo landing page for the Swarnabhoomi Real Estate Company.
 
+## Live Demo
+
+You can view the live demo of this landing page [here](https://swarnabhoomiinfra.netlify.app).
+
 ## Introduction
 
 Welcome to the Swarnabhoomi Real Estate Company's demo landing page. This page showcases our company's services, projects, and features.
